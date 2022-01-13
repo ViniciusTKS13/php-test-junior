@@ -11,10 +11,13 @@ Desenvolva uma aplicação utilizando o framework Laravel, a aplicação deverá
  
 O usuário logado deverá conseguir acessar a área deslogada, mas o usuário não logado não poderá ter acesso a área logada.
 
+Requisitos:
+- Framework Laravel;
+- Utilização de migrations;
+
 Bônus: 
 - Botão “Ver Mais” na página inicial para carregar mais 10 notícias sem atualizar a página;
 - Realizar a busca na página geral de notícias sem atualizar a página;
-- Utilização de migrations;
 - Utilização de seeds para popular a tabela de notícias;
 - Responsividade;
 - Pode utilizar JQuery para os 2 primeiros itens, mas caso não utilize e faça com JavaScript puro é um grande ponto;
